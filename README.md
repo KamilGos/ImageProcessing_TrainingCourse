@@ -15,3 +15,6 @@ I have used that scripts during my course, to show interested students how to us
 <b>fullbody_HOG.py</b> - how to recognize human body<br>
 
 
+## Author
+Kamil Goś <br>
+kamil.gos00@gmail.com
