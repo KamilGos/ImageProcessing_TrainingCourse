@@ -6,7 +6,7 @@ I have used that scripts during my course, to show interested students how to us
 # Scripts description
 
 <b>bgr.py</b> - how to split colors into different channels <br>
-<b>color_detection.py</b> - how to detect colors<br>
+<b>color_detection.py</b> - how to extract selected color from image<br>
 <b>h_gray_comp.py</b> - commparision between grayscale and hsv value channel<br>
 <b>hsv.py</b> - how hsv works<br>
 <b>hsv_color_generator.py</b> - how to generate hsv color description<br>
